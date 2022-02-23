@@ -3,7 +3,7 @@ Some place for BCS fellows to orchestrate
 
 This is a kickstart for the shared resources, any suggestions/ tips/ resources would be appreciated!
 
-Starting with the super useful link:
+Thanks to John Lee, ttarting with the super useful link:
 https://sillycat.notion.site/sillycat/CS-Resources-42da2a5446734177bb68406d822b4ac0
 
 ## Sections to have in mind:
