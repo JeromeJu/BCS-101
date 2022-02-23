@@ -7,7 +7,7 @@ Starting with the super useful link:
 https://sillycat.notion.site/sillycat/CS-Resources-42da2a5446734177bb68406d822b4ac0
 
 ## Sections to have in mind:
-Eaziest briding module credits 
+Easiest briding module credits 
 
 Before entering BCS
 
