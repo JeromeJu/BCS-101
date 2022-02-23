@@ -8,6 +8,9 @@ https://sillycat.notion.site/sillycat/CS-Resources-42da2a5446734177bb68406d822b4
 
 ## Sections to have in mind:
 Eaziest briding module credits 
+
 Before entering BCS
+
 Available referrals
+
 Github 101?
